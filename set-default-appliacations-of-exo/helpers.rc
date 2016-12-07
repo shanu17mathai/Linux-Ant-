@@ -1,0 +1,10 @@
+#
+# default xfce prefered applications for X-tab Tritium
+#
+# Copyright (c) 2015 Powerup <power.up1163@gmail.com>
+#
+
+WebBrowser=usr/bin/vivaldi-preview %U
+MailReader=geary
+TerminalEmulator=gnome-terminal
+FileManager=nautilus
