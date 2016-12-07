@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Console mode
+GenericName=Console mode
+Comment=Let's switch to console mode!
+Categories=Network;
+Exec=steam steam://open/bigpicture
+Icon=steam
+Version=1.0
