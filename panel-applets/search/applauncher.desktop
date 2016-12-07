@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Google Search Tool
+GenericName=Search
+Comment=Search on internet
+Categories=Network;
+Exec=google-chrome-stable --show-app-list
+Icon=preferences-system-search
+Version=1.0
